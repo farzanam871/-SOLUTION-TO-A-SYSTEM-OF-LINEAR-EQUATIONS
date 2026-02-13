@@ -16,7 +16,7 @@ End the program
 ## Program:
 ```#Program to find the solution for the given linear equation.
    #Developed by: Farzana M
-   #Register no. :212225040087```
+   #Register no. :212225040087
 import numpy as np
 A = np.array([[1, 3],
               [3, 1]])
