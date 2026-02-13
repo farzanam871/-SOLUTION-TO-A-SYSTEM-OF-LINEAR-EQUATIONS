@@ -24,10 +24,17 @@ End the program
    #Register no. :212225040087
    
 import numpy as np
-A = np.array([[1, 3],
-              [3, 1]])
+
+
+A = np.array([[1, 3], [3, 1]])
+
+
 B = np.array([6, 10])
+
+
 solution = np.linalg.solve(A, B)
+
+
 print(solution)
 
 ## Output:
